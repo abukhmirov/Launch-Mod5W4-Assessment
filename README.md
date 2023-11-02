@@ -22,8 +22,11 @@ When finished, create a PR and include your answers to the reflection questions 
 
 ## Reflection Questions (6 points)
 * What about this challenge was most difficult for you?
+* The difficult part was figuring out how to display both the milky way "local" planets and the API's star wars planets. 
 * Highlight one peice of code that you wrote that you are especially proud of.
+* There is no specific code snippet that I'm proud of, but I am proud of my implementation of the API access in the program. I feel like I really understood what I was doing and how the code I added affected the program and why I added it.
 * What would you do next, if we gave you another hour?
+* I would figure out how to add the SWAPI planets to the same index view as the milky way planets. I'm almost there, but it just doesn't jump out at me.
 
 ## Rubric
 
